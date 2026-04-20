@@ -1,6 +1,6 @@
 let arr=[]
 
-let name1={name:"hassan"}
+let name1={name:"hams"}
 
 
 let name2={name:"hamss"}
